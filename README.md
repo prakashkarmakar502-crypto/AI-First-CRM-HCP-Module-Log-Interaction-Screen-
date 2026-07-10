@@ -300,7 +300,7 @@ This project is developed as part of an **AI-First CRM HCP Module Assignment** f
 
 **Prakash Karmakar**
 
-MCA (Artificial Intelligence & Machine Learning)
+MCA Graduate
 
 GitHub: https://github.com/prakashkarmakar502-crypto
 
