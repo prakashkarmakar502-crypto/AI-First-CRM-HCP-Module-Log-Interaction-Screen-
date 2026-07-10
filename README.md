@@ -292,7 +292,7 @@ Return Updated Form
 
 # 📄 License
 
-This project is developed as part of an **AI-First CRM HCP Module Assignment** for educational and demonstration purposes.
+This project is developed as part of an **AI-First CRM HCP Module Assignment** for round 1 assignment at AIVOA.AI.
 
 ---
 
