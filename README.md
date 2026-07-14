@@ -1,4 +1,4 @@
-# 🏥 AI-First CRM – HCP Interaction Logging Module
+# 🏥 AI-First CRM-HCP Interaction Logging Module
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)
 ![Redux](https://img.shields.io/badge/State-Redux-764ABC?logo=redux)
