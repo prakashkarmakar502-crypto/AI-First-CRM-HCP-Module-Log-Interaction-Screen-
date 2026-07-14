@@ -6,7 +6,7 @@
 ![LangGraph](https://img.shields.io/badge/AI-LangGraph-blue)
 ![Groq](https://img.shields.io/badge/LLM-Groq-orange)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 An **AI-powered CRM module** for Healthcare Professional (HCP) interaction logging that allows pharmaceutical representatives to log interactions using either a **traditional form** or a **conversational AI assistant**.
 
